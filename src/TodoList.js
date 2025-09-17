@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import AddIcon from "./add.png";
 import EditIcon from "./edit.png";
 import DeleteIcon from "./delete.png";
-import TickIcon from "./complete.png";
+
 
 const API_URL = "http://localhost:5000/todos";
 
